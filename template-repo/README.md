@@ -1,5 +1,7 @@
 Lo booré todo en la prueba del 07/03/2024
 
+.jijijijija
+
 ada	accA
 ada	aidB
 ada	alkA
