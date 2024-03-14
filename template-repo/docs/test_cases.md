@@ -1,4 +1,4 @@
-# Casos de prueba o escenarios
+# Casos de prueba o escenario
 
 Este documento describe los casos de prueba para el script de Python desarrollado para ----lo que se que haga el programa--. El objetivo de estas pruebas es validar y garantizar que el script funciona correctamente y cumple con las especificaciones.
 

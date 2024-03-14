@@ -5,7 +5,7 @@ Este es un script de Python diseñado para -----------
 ## Uso
 
 
-## Salida
+## Salida (Out)
 
 El script imprimirá --------- en la consola. 
 
