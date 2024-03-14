@@ -3,7 +3,7 @@
 Este es un script de Python diseñado para ----------- 
 
 ## Uso
-
+El uso del código es...
 
 ## Salida
 
